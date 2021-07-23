@@ -1,1 +1,2 @@
 One function of an operating system is to manage your memory. All memory devices are managed through the operating system. The oporating system keeps your memory location stable. The operating system also allocates your memory for you. 
+Another function of an operating system is to manage device communication. The operating system uses drivers to help manage this communication. It allocates and de-allocates the device, and decides which process will get the device and for the amount of time.
