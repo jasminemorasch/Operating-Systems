@@ -1,0 +1,1 @@
+One function of an operating system is to manage your memory. All memory devices are managed through the operating system. The oporating system keeps your memory location stable. The operating system also allocates your memory for you. 
